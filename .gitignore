@@ -1,0 +1,4 @@
+.env
+.env.local
+app.yaml
+supabase\Back-ups
